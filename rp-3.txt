@@ -3,4 +3,10 @@ Changing this file in the local directory
 Changing this file in title branch
 
 
+<<<<<<< HEAD
 Changing this file in master
+=======
+Changing this file in mybranch
+
+Changign this file in master
+>>>>>>> mybranch
